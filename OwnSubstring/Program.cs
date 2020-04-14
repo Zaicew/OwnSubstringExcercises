@@ -23,7 +23,7 @@ namespace OwnSubstring
             Console.WriteLine(d1.LetterPositionInString("Janina", Convert.ToChar("a")));
             Console.WriteLine("5. Jcninc");
             Console.WriteLine(d1.LetterReplace("Janina", Convert.ToChar("a"), Convert.ToChar("c")));
-            Console.WriteLine("True:");
+            Console.WriteLine("Daniel, Filip, Weronika, Justyna");
             Console.WriteLine(d1.StringReplace("Daniel, Kamil, Weronika, Justyna", "Kamil", "Filip"));
 
             Console.ReadKey();
